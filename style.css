@@ -182,3 +182,31 @@ button.feast {
   width: 426.31px;
   height: 536px;
 }
+/* Food container items */
+.food-container {
+  display: flex;
+  padding: 20px 0px;
+  justify-content: center;
+}
+
+.food-container .food-items {
+  padding: 20px 0px;
+  width: 310px;
+}
+.food-items img {
+  display: block;
+  margin: 0 auto;
+}
+.food-items h2 {
+  line-height: 3em;
+  font-size: 24px;
+  text-align: center;
+}
+.food-items p {
+  color: gray;
+  text-align: center;
+}
+.food-process h4 {
+  text-align: center;
+  font-size: 54px;
+}
