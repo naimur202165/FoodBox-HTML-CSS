@@ -149,3 +149,36 @@ button.feast {
 }
 
 /* Oder section code */
+.order-container {
+  height: 100vh;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  align-items: center;
+}
+.order-box h2 {
+  font-size: 52px;
+  font-family: "Courier New", Courier, monos;
+}
+
+.order-box p {
+  font-size: 20px;
+  font-family: "Open Sans", sans-serif;
+  margin: 20px 0px;
+  color: gray;
+}
+
+.order-box button {
+  margin: 20px 0px;
+  padding: 20px 60px;
+  background: #ff2626;
+  border: none;
+  color: white;
+  border-radius: 20px;
+  cursor: pointer;
+  margin-right: 100px;
+}
+.order-img {
+  width: 426.31px;
+  height: 536px;
+}
