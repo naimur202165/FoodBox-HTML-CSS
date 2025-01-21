@@ -129,6 +129,7 @@ button.feast {
   font-size: 20px;
   font-family: "Poppins", sans-serif;
   margin-top: 40px;
+  text-align: center;
 }
 
 .catagories .items:hover {
