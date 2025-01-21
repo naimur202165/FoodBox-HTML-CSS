@@ -105,3 +105,44 @@ button.feast {
   width: 100%;
   height: 100%;
 }
+
+/* Top Catagories */
+
+.top-catagories h2 {
+  padding-top: 10px;
+  text-align: center;
+  font-size: 48px;
+  font-family: "Poppins", sans-serif;
+}
+
+.catagories {
+  padding: 10px 0px;
+}
+.catagories .items {
+  padding: 90px 80px;
+  height: 373px;
+  width: 266px;
+  border: 1px solid #d62020;
+  border-radius: 20px;
+}
+.catagories .items h3 {
+  font-size: 20px;
+  font-family: "Poppins", sans-serif;
+  margin-top: 40px;
+}
+
+.catagories .items:hover {
+  background-color: #ff2626;
+  font-weight: bold;
+  padding: 90px 80px;
+  height: 373px;
+  width: 266px;
+  border: 1px solid #d62020;
+  border-radius: 20px;
+  color: white;
+}
+.catagories {
+  padding-top: 50px;
+  display: flex;
+  justify-content: space-between;
+}
